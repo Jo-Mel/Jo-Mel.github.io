@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["404"],{"8cdb":function(t,e,n){"use strict";n.r(e);var r=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",{staticClass:"not-found"},[r("img",{attrs:{src:n("b8b3")}})])}],c={},a=c,i=n("2877"),o=Object(i["a"])(a,r,s,!1,null,"0e578214",null);e["default"]=o.exports},b8b3:function(t,e,n){t.exports=n.p+"img/travolta.24f1671b.gif"}}]);
+//# sourceMappingURL=404.0c714779.js.map
